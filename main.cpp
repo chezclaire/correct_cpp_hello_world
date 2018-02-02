@@ -1,9 +1,9 @@
-// my first program in C++
 #include <iostream>
 
+/// my first program in C++
 int main()
 {
-  std::cout << "Hello world!";
+  std::cout << "Hello world!\n";
 }
 
 
