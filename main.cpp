@@ -1,7 +1,7 @@
+// my first program in C++
 #include <iostream>
 
-/// hello_world main function
 int main()
 {
-  std::cout << "Hello world\n";
+  std::cout << "Hello world!";
 }
